@@ -1,5 +1,5 @@
 # MyFirstApp
-
+<img src="https://res.cloudinary.com/mokaweb/image/upload/v1592575241/Udemy%20Angular%20TypeScript/MyFirstApp.gif" alt="MyFirstApp">
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
 
 ## Development server
